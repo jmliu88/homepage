@@ -4,3 +4,8 @@ _site/
 .jekyll-metadata
 vendor/
 .bundle/
+
+# Editor swap files
+*.swp
+*.swo
+*~

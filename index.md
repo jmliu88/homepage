@@ -5,28 +5,29 @@ layout: default
 <h2 class="section-title">About Me</h2>
 
 <p class="lead">
-I lead content generation for the <strong>Qwen App</strong> at <strong>Alibaba Group</strong>
-(P8, Shanghai), where I built and manage a 20+ person team working across three technical
-lines: <strong>AI agents</strong>, <strong>image generation</strong>, and
-<strong>video generation</strong> — towards an integrated "understand&ndash;generate&ndash;interact"
-intelligent creation system.
+I lead content generation for the <strong>Qwen App</strong> at <strong>Alibaba Group</strong>,
+building systems that connect <strong>AI agents</strong>, <strong>image generation</strong>,
+and <strong>interactive video generation</strong> into a single intelligent creation experience.
 </p>
 
 <p>
-My research focuses on <strong>diffusion models</strong> and <strong>AI agents</strong> —
-in particular controllable visual generation, subject-driven personalization, human-centric
-and interactive video generation (talking avatars, makeup / hair / garment transfer), and
-efficient inference for generative models. My publications have received
-<strong>2,200+ citations</strong> according to
+My work sits at the intersection of generative models and real-world products. Over the
+past years I have focused on several closely related topics:
+controllable diffusion models, subject-driven personalization, human-centric video
+and talking-avatar generation, visual editing (makeup / hair / garment / font / face),
+efficient inference, and agentic creation workflows.
+My publications have received <strong>2,200+ citations</strong> according to
 <a href="https://scholar.google.com/citations?user=SmL7oMQAAAAJ&hl=en">Google Scholar</a>.
 </p>
 
 <p>
-Before Alibaba, I was <strong>VP of AI</strong> at Tiamat AI, led the
-<strong>AIGC &amp; Optical Flow</strong> team at Xiaohongshu (RED), and led the
-<strong>GAN team</strong> at Baidu's Vision Technology Department after starting my career
-in Baidu IDL's OCR team. Several of my works have been widely adopted by the open-source
-community — <a href="https://github.com/Alibaba-Quark/LiveAvatar">LiveAvatar</a>
+Previously, I was <strong>Head of AI at Tiamat AI</strong>, where I built the full-stack
+generative pipeline for a virtual-companion app; led the <strong>AIGC &amp; Optical Flow</strong>
+team at <strong>Xiaohongshu</strong> to power content creation; and led the
+<strong>GAN team</strong> at <strong>Baidu</strong> on intelligent font production and
+virtual-human technologies after starting in Baidu IDL's OCR team. Several works have
+been widely adopted by the open-source community, including
+<a href="https://github.com/Alibaba-Quark/LiveAvatar">LiveAvatar</a>
 (Hugging Face #1 Paper of the Day, 2k+ GitHub stars) and
 <a href="https://github.com/Xiaojiu-z/EasyControl">EasyControl</a>
 (Hugging Face #1 trending Space).
@@ -93,13 +94,13 @@ community — <a href="https://github.com/Alibaba-Quark/LiveAvatar">LiveAvatar</
 
 <dl class="cv-list">
   <dt>2025 – Present</dt>
-  <dd><span class="title">Content Generation Lead (P8), Qwen App</span>, <span class="org">Alibaba Group</span></dd>
+  <dd><span class="title">Content Generation Lead</span>, <span class="org">Qwen App, Alibaba Group</span></dd>
   <dt>2024 – 2025</dt>
-  <dd><span class="title">VP of AI</span>, <span class="org">Tiamat AI</span></dd>
+  <dd><span class="title">Head of AI</span>, <span class="org">Tiamat AI</span></dd>
   <dt>2022 – 2024</dt>
-  <dd><span class="title">AIGC &amp; Optical Flow Lead (R6)</span>, <span class="org">Xiaohongshu (RED)</span></dd>
+  <dd><span class="title">AIGC &amp; Optical Flow Lead</span>, <span class="org">Xiaohongshu</span></dd>
   <dt>2019 – 2022</dt>
-  <dd><span class="title">Tech Lead (T7), GAN Team</span>, <span class="org">Baidu, Vision Technology Department</span></dd>
+  <dd><span class="title">Tech Lead, GAN Team</span>, <span class="org">Baidu, Vision Technology Department</span></dd>
   <dt>2017 – 2019</dt>
   <dd><span class="title">Research Engineer, OCR Team</span>, <span class="org">Baidu IDL</span></dd>
 </dl>

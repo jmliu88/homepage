@@ -30,8 +30,9 @@ bundle exec jekyll serve
 
 ## Updating content
 
-- **New paper**: add an entry to `_data/publications.yml` (see the field comments at the
-  top of the file). Set `selected: true` to feature it on the home page.
+- **New paper**: add an entry to `_data/publications.bib`. Set `selected = {true}` to
+  feature it on the home page, then run `uv run --with bibtexparser --with pyyaml
+  scripts/bib_to_yml.py` to regenerate `_data/publications.yml`.
 - **News**: edit the `<ul class="news-list">` block in `index.md`.
 - **Personal info / links**: edit `_config.yml`.
 - **Photo**: replace `assets/img/photo.jpg` (a square image works best; until then an
