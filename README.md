@@ -39,12 +39,24 @@ bundle exec jekyll serve
 
 ## Deploy
 
-Build produces a fully static site in `_site/` — host it anywhere:
+This site is deployed with **GitHub Pages** and the custom domain `jiamingliu.xyz`.
 
-```bash
-bundle exec jekyll build
-# upload _site/ to your server, e.g.:
-rsync -avz _site/ user@your-server:/var/www/homepage/
-```
+- Repository: https://github.com/jmliu88/homepage
+- Live site: https://jiamingliu.xyz
 
-Set `url` in `_config.yml` to your domain before deploying.
+Pushing to `main` triggers the GitHub Actions workflow in `.github/workflows/pages.yml`.
+
+### DNS records
+
+For the apex domain `jiamingliu.xyz`, add these A records at your registrar
+(Namecheap → Domain List → Manage → Advanced DNS → Host Records):
+
+| Type | Host | Value |
+|------|------|-------|
+| A Record | `@` | `185.199.108.153` |
+| A Record | `@` | `185.199.109.153` |
+| A Record | `@` | `185.199.110.153` |
+| A Record | `@` | `185.199.111.153` |
+
+In the GitHub repository settings, enable **Pages** with source **GitHub Actions**,
+and set the custom domain to `jiamingliu.xyz`.
