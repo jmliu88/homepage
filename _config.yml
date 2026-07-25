@@ -1,0 +1,43 @@
+# ---------------------------------------------------------------
+# Site settings — Jiaming Liu's academic homepage
+# ---------------------------------------------------------------
+
+title: Jiaming Liu
+description: >-
+  Jiaming Liu leads content generation for the Qwen App at Alibaba Group.
+  His research focuses on diffusion models, controllable visual generation,
+  interactive video generation, and AI agents.
+
+# Deploy to your own domain: set url to your domain, e.g. "https://jiamingliu.com"
+url: ""
+baseurl: ""
+
+# ---------------------------------------------------------------
+# Personal info (used by the sidebar / meta tags)
+# ---------------------------------------------------------------
+author:
+  name: Jiaming Liu
+  name_zh: 刘家铭
+  role: Content Generation Lead, Qwen App
+  affiliation: Alibaba Group
+  location: Shanghai, China
+  email: james.liu.n1@gmail.com
+  scholar: https://scholar.google.com/citations?user=SmL7oMQAAAAJ&hl=en
+  linkedin: https://www.linkedin.com/in/jamesliu4451/
+  github: https://github.com/jamesliu1217
+  huggingface: https://huggingface.co/jamesliu1217
+
+# ---------------------------------------------------------------
+# Build settings
+# ---------------------------------------------------------------
+markdown: kramdown
+permalink: pretty
+
+sass:
+  style: compressed
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - README.md

@@ -1,0 +1,241 @@
+# ---------------------------------------------------------------
+# Publications — add a new entry at the top of its year block.
+# Fields:
+#   title        Paper title
+#   authors      Author list ("Jiaming Liu" is auto-bolded)
+#   venue        Full venue name (italic, e.g. "Proceedings of the ICCV")
+#   venue_short  Badge label (e.g. ICCV, CVPR, arXiv)
+#   preprint     true → badge is rendered in "preprint" style
+#   year         Publication year (used for grouping)
+#   selected     true → shown on the home page "Selected Publications"
+#   link         Paper URL (arXiv / DOI / openaccess)
+#   code         (optional) Code repository URL
+#   project      (optional) Project page URL
+#   demo         (optional) Demo URL
+# ---------------------------------------------------------------
+
+- title: "EasyControl: Adding Efficient and Flexible Control for Diffusion Transformer"
+  authors: "Yuxuan Zhang, Yirui Yuan, Yiren Song, Haofan Wang, Jiaming Liu"
+  venue: "IEEE/CVF International Conference on Computer Vision (ICCV)"
+  venue_short: ICCV
+  year: 2025
+  selected: true
+  link: https://arxiv.org/abs/2503.07027
+  code: https://github.com/Xiaojiu-z/EasyControl
+  project: https://easycontrolproj.github.io/
+  demo: https://huggingface.co/spaces/jamesliu1217/EasyControl
+
+- title: "RationalRewards: Reasoning Rewards Scale Visual Generation Both Training and Test Time"
+  authors: "Haofan Wang, Chen Wei, Wenjie Ren, Jiaming Liu, Fang Lin, Wei Chen"
+  venue: "arXiv preprint"
+  venue_short: arXiv
+  preprint: true
+  year: 2026
+  link: https://arxiv.org/abs/2604.11626
+
+- title: "CollectionLoRA: Collecting 50 Effects in 1 LoRA via Multi-Teacher On-Policy Distillation"
+  authors: "Fangtai Wu, Hailong Guo, Shijie Huang, Jiawei Song, Yubo Huang, Ming Liu, Zheng Wang, Yang Yu, Jiaming Liu, Steven C. H. Hoi"
+  venue: "arXiv preprint"
+  venue_short: arXiv
+  preprint: true
+  year: 2026
+  link: https://arxiv.org/abs/2605.25378
+
+- title: "EasyText: Controllable Diffusion Transformer for Multilingual Text Rendering"
+  authors: "Ruijing Lu, Yuxuan Zhang, Jiaming Liu, Haofan Wang, Yiren Song"
+  venue: "AAAI Conference on Artificial Intelligence (AAAI)"
+  venue_short: AAAI
+  year: 2026
+
+- title: "Stable-Hair V2: Real-World Hair Transfer via Multiple-View Diffusion Model"
+  authors: "Ke Sun, Yuxuan Zhang, Jichao Zhang, Jiaming Liu, Weiqiang Wang, Nicu Sebe, Yabin Zhao"
+  venue: "IEEE Transactions on Visualization and Computer Graphics (TVCG)"
+  venue_short: TVCG
+  year: 2026
+
+- title: "Live Avatar: Streaming Real-time Audio-driven Avatar Generation with Infinite Length"
+  authors: "Yubo Huang, Hailong Guo, Fangtai Wu, Weiqiang Wang, Shifeng Zhang, Shijie Huang, Qijun Gan, Lin Liu, Sirui Zhao, Enhong Chen, Jiaming Liu, Steven C. H. Hoi"
+  venue: "European Conference on Computer Vision (ECCV)"
+  venue_short: ECCV
+  year: 2026
+  selected: true
+  link: https://arxiv.org/abs/2512.04677
+  code: https://github.com/Alibaba-Quark/LiveAvatar
+  project: https://liveavatar.github.io/
+
+- title: "StableMakeup: When Real-World Makeup Transfer Meets Diffusion Model"
+  authors: "Yuxuan Zhang, Yirui Yuan, Yiren Song, Jiaming Liu"
+  venue: "ACM SIGGRAPH Conference Papers"
+  venue_short: SIGGRAPH
+  year: 2025
+  selected: true
+  link: https://arxiv.org/abs/2403.07764
+  code: https://github.com/Xiaojiu-z/Stable-Makeup
+
+- title: "Stable-Hair: Real-World Hair Transfer via Diffusion Model"
+  authors: "Yuxuan Zhang, Qing Zhang, Yiren Song, Jichao Zhang, Hao Tang, Jiaming Liu"
+  venue: "AAAI Conference on Artificial Intelligence (AAAI)"
+  venue_short: AAAI
+  year: 2025
+  selected: true
+  link: https://arxiv.org/abs/2407.14078
+
+- title: "Any2AnyTryOn: Leveraging Adaptive Position Embeddings for Versatile Virtual Clothing Tasks"
+  authors: "Hailong Guo, Bohan Zeng, Yiren Song, Wentao Zhang, Chuang Zhang, Jiaming Liu"
+  venue: "IEEE/CVF International Conference on Computer Vision (ICCV)"
+  venue_short: ICCV
+  year: 2025
+  selected: true
+  link: https://arxiv.org/abs/2501.15891
+
+- title: "Fonts: Text Rendering with Typography and Style Controls"
+  authors: "Wang Shi, Yiren Song, Deng Zhang, Jiaming Liu, Xueyin Zou"
+  venue: "IEEE/CVF International Conference on Computer Vision (ICCV)"
+  venue_short: ICCV
+  year: 2025
+
+- title: "EditWorld: Simulating World Dynamics for Instruction-Following Image Editing"
+  authors: "Bohan Zeng, Ling Yang, Jiaming Liu, Mingdeng Xu, Yuxuan Zhang, Pengfei Wan, Wenqi Zhang, Shuicheng Yan"
+  venue: "ACM International Conference on Multimedia (ACM MM)"
+  venue_short: ACM MM
+  year: 2025
+
+- title: "PhotoDoodle: Learning Artistic Image Editing from Few-Shot Pairwise Data"
+  authors: "Shijie Huang, Yiren Song, Yuxuan Zhang, Hailong Guo, Xueyin Wang, Mike Zheng Shou, Jiaming Liu"
+  venue: "arXiv preprint"
+  venue_short: arXiv
+  preprint: true
+  year: 2025
+  link: https://arxiv.org/abs/2502.14397
+
+- title: "WordCon: Word-Level Typography Control in Scene Text Rendering"
+  authors: "Wang Shi, Yiren Song, Zhi Rao, Deng Zhang, Jiaming Liu, Xueyin Zou"
+  venue: "arXiv preprint"
+  venue_short: arXiv
+  preprint: true
+  year: 2025
+  link: https://arxiv.org/abs/2506.21276
+
+- title: "SSR-Encoder: Encoding Selective Subject Representation for Subject-Driven Generation"
+  authors: "Yuxuan Zhang, Yiren Song, Jiaming Liu, Rui Wang, Jinpeng Yu, Hao Tang, Huaxia Li, Xu Tang, Yao Hu, Han Pan, Zhongliang Jing"
+  venue: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)"
+  venue_short: CVPR
+  year: 2024
+  selected: true
+  link: https://arxiv.org/abs/2312.16272
+  project: https://ssr-encoder.github.io
+
+- title: "Zone: Zero-Shot Instruction-Guided Local Editing"
+  authors: "Shanglin Li, Bohan Zeng, Yutang Feng, Sicheng Gao, Xiuhui Liu, Jiaming Liu, Lin Li, Xu Tang, Yao Hu, Jianzhuang Liu, Baochang Zhang"
+  venue: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)"
+  venue_short: CVPR
+  year: 2024
+  link: https://arxiv.org/abs/2312.16794
+  code: https://github.com/lsl001006/ZONE
+
+- title: "StreamFlow: Streamlined Multi-Frame Optical Flow Estimation for Video Sequences"
+  authors: "Shikun Sun, Jiaming Liu, Han Li, Guangming Liu, Tao Hui Li, Wen Gao"
+  venue: "Advances in Neural Information Processing Systems (NeurIPS)"
+  venue_short: NeurIPS
+  year: 2024
+
+- title: "StableGarment: Garment-Centric Generation via Stable Diffusion"
+  authors: "Rui Wang, Hailong Guo, Jiaming Liu, Huaxia Li, Haibo Zhao, Xu Tang, Yao Hu, Hao Tang, Peipei Li"
+  venue: "arXiv preprint"
+  venue_short: arXiv
+  preprint: true
+  year: 2024
+  link: https://arxiv.org/abs/2403.10783
+
+- title: "ProcessPainter: Learn Painting Process from Sequence Data"
+  authors: "Yiren Song, Shijie Huang, Chenglin Yao, Xiaokang Ye, Hai Ci, Jiaming Liu, Yuxuan Zhang, Mike Zheng Shou"
+  venue: "arXiv preprint"
+  venue_short: arXiv
+  preprint: true
+  year: 2024
+  link: https://arxiv.org/abs/2406.06062
+
+- title: "Trans4D: Realistic Geometry-Aware Transition for Compositional Text-to-4D Synthesis"
+  authors: "Bohan Zeng, Ling Yang, Shanglin Li, Jiaming Liu, Zicheng Zhang, Jianfei Tian, Kaiwen Zhu, Yulu Guo, Fu-Yun Wang, Wentao Zhang"
+  venue: "arXiv preprint"
+  venue_short: arXiv
+  preprint: true
+  year: 2024
+  link: https://arxiv.org/abs/2410.07155
+
+- title: "Anti-Reference: Universal and Immediate Defense Against Reference-Based Generation"
+  authors: "Yiren Song, Siyuan Lou, Xueyin Liu, Hai Ci, Pei Yang, Jiaming Liu, Mike Zheng Shou"
+  venue: "arXiv preprint"
+  venue_short: arXiv
+  preprint: true
+  year: 2024
+  link: https://arxiv.org/abs/2412.05980
+
+- title: "Mpi-Flow: Learning Realistic Optical Flow with Multiplane Images"
+  authors: "Yawen Liang, Jiaming Liu, Dongqi Zhang, Yanwei Fu"
+  venue: "IEEE/CVF International Conference on Computer Vision (ICCV)"
+  venue_short: ICCV
+  year: 2023
+
+- title: "IpDreamer: Appearance-Controllable 3D Object Generation with Complex Image Prompts"
+  authors: "Bohan Zeng, Shanglin Li, Yutang Feng, Ling Yang, Haolin Li, Sicheng Gao, Jiaming Liu, Chao He, Wenqi Zhang, Jianzhuang Liu, Baochang Zhang"
+  venue: "arXiv preprint"
+  venue_short: arXiv
+  preprint: true
+  year: 2023
+  link: https://arxiv.org/abs/2310.05375
+
+- title: "Few-Shot Font Generation by Learning Fine-Grained Local Styles"
+  authors: "Licheng Tang, Yiyang Cai, Jiaming Liu, Zhibin Hong, Mingming Gong, Minhu Fan, Junyu Han, Jingtuo Liu, Errui Ding, Jingdong Wang"
+  venue: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)"
+  venue_short: CVPR
+  year: 2022
+
+- title: "StyleSwap: Style-Based Generator Empowers Robust Face Swapping"
+  authors: "Zhiliang Xu, Hang Zhou, Zhibin Hong, Ziwei Liu, Jiaming Liu, Zhizhi Guo, Junyu Han, Jingtuo Liu, Errui Ding, Jingdong Wang"
+  venue: "European Conference on Computer Vision (ECCV)"
+  venue_short: ECCV
+  year: 2022
+
+- title: "Few-Shot Head Swapping in the Wild"
+  authors: "Changyong Shu, Hao Wu, Hang Zhou, Jiaming Liu, Zhibin Hong, Changxing Ding, Junyu Han, Jingtuo Liu, Errui Ding, Jingdong Wang"
+  venue: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)"
+  venue_short: CVPR
+  year: 2022
+
+- title: "Editing Text in the Wild"
+  authors: "Liang Wu, Chengquan Zhang, Jiaming Liu, Junyu Han, Jingtuo Liu, Errui Ding, Xiang Bai"
+  venue: "ACM International Conference on Multimedia (ACM MM)"
+  venue_short: ACM MM
+  year: 2019
+  selected: true
+
+- title: "Chinese Street View Text: Large-Scale Chinese Text Reading with Partially Supervised Learning"
+  authors: "Yipeng Sun, Jiaming Liu, Wei Liu, Junyu Han, Errui Ding, Jingtuo Liu"
+  venue: "IEEE/CVF International Conference on Computer Vision (ICCV)"
+  venue_short: ICCV
+  year: 2019
+
+- title: "EATEN: Entity-Aware Attention for Single Shot Visual Text Extraction"
+  authors: "He Guo, Xiameng Qin, Jiaming Liu, Junyu Han, Jingtuo Liu, Errui Ding"
+  venue: "International Conference on Document Analysis and Recognition (ICDAR)"
+  venue_short: ICDAR
+  year: 2019
+
+- title: "TextNet: Irregular Text Reading from Images with an End-to-End Trainable Network"
+  authors: "Yipeng Sun, Chengquan Zhang, Zuming Huang, Jiaming Liu, Junyu Han, Errui Ding"
+  venue: "Asian Conference on Computer Vision (ACCV)"
+  venue_short: ACCV
+  year: 2018
+
+- title: "Cough Event Classification by Pretrained Deep Neural Network"
+  authors: "Jiaming Liu, Mingyu You, Zheng Wang, Guo-Zheng Li, Xianghuai Xu, Zhongmin Qiu"
+  venue: "BMC Medical Informatics and Decision Making"
+  venue_short: BMC MIDM
+  year: 2015
+
+- title: "Cough Detection Using Deep Neural Networks"
+  authors: "Jiaming Liu, Mingyu You, Zheng Wang, Guo-Zheng Li, Xianghuai Xu, Zhongmin Qiu"
+  venue: "IEEE International Conference on Bioinformatics and Biomedicine (BIBM)"
+  venue_short: IEEE BIBM
+  year: 2014

@@ -1,0 +1,36 @@
+# Granted US patents (a selection). Fields: title, number, year, authors.
+
+- title: "Method and Apparatus for Training a Character Detector Based on Weak Supervision, System and Medium"
+  number: "US 10,643,066"
+  year: 2020
+  authors: "Chengquan Zhang, Jiaming Liu, Junyu Han, Errui Ding"
+
+- title: "Method and Apparatus for Detecting Text"
+  number: "US 10,762,376"
+  year: 2020
+  authors: "Jiaming Liu, Chengquan Zhang, Junyu Han, Errui Ding"
+
+- title: "End-to-End Text Recognition Method and Apparatus, Computer Device and Readable Medium"
+  number: "US 11,210,546"
+  year: 2021
+  authors: "Yipeng Sun, Chengquan Zhang, Zuming Huang, Jiaming Liu, Junyu Han, Errui Ding"
+
+- title: "Method and Apparatus for Training a Character Detector Based on Weak Supervision, System and Medium"
+  number: "US 10,963,693"
+  year: 2021
+  authors: "Chengquan Zhang, Jiaming Liu, Junyu Han, Errui Ding"
+
+- title: "Face Super-Resolution Realization Method and Apparatus, Electronic Device and Storage Medium"
+  number: "US 11,710,215"
+  year: 2023
+  authors: "Tianshu Hu, Jiaming Liu"
+
+- title: "Method of Generating Font Database, and Method of Training Neural Network Model"
+  number: "US 11,816,908"
+  year: 2023
+  authors: "Licheng Tang, Jiaming Liu"
+
+- title: "Method for Training a Font Generation Model, Method for Establishing a Font Library, and Device"
+  number: "US 11,875,584"
+  year: 2024
+  authors: "Jiaming Liu, Licheng Tang"
