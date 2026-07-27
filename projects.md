@@ -7,6 +7,18 @@ title: Projects
 
 <div class="project-grid">
   <div class="project-card">
+    <h3><a href="https://github.com/Alibaba-Quark/LiveAvatar">LiveAvatar</a></h3>
+    <p>Real-time, streaming, infinite-length audio-driven avatar generation powered by a
+    14B diffusion model — 45 FPS on 5×H800, FP8 release runs on 48GB GPUs.
+    ECCV 2026. HF #1 Paper of the Day, 2k+ stars.</p>
+    <div class="pub-links">
+      <a href="https://github.com/Alibaba-Quark/LiveAvatar">Code</a>
+      <a href="https://liveavatar.github.io/">Project</a>
+      <a href="https://arxiv.org/abs/2512.04677">Paper</a>
+    </div>
+  </div>
+
+  <div class="project-card">
     <h3><a href="https://github.com/Xiaojiu-z/EasyControl">EasyControl</a></h3>
     <p>Efficient and flexible condition-guided control for Diffusion Transformers (DiT).
     Plug-and-play Condition Injection LoRA, position-aware training, and KV-Cache-accelerated
@@ -29,15 +41,8 @@ title: Projects
   </div>
 
   <div class="project-card">
-    <h3><a href="https://github.com/Alibaba-Quark/LiveAvatar">LiveAvatar</a></h3>
-    <p>Real-time, streaming, infinite-length audio-driven avatar generation powered by a
-    14B diffusion model — 45 FPS on 5×H800, FP8 release runs on 48GB GPUs.
-    ECCV 2026. HF #1 Paper of the Day, 2k+ stars.</p>
-    <div class="pub-links">
-      <a href="https://github.com/Alibaba-Quark/LiveAvatar">Code</a>
-      <a href="https://liveavatar.github.io/">Project</a>
-      <a href="https://arxiv.org/abs/2512.04677">Paper</a>
-    </div>
+    <h3><a href="https://github.com/showlab/PhotoDoodle">PhotoDoodle</a></h3>
+    <p>The first in-context architecture for image editing & customizable image editing. </p>
   </div>
 
   <div class="project-card">
