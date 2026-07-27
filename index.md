@@ -61,14 +61,18 @@ been widely adopted by the open-source community, including
   <li>
     <span class="news-date">Feb 2025</span>
     <span class="news-body"><a href="https://arxiv.org/abs/2407.14078">Stable-Hair</a> published at <strong>AAAI 2025</strong>.</span>
-
-    <span class="news-date">Feb 2023</span>
-    <span class="news-body"> Win the champion at Xiaohongshu's 3rd Hackathon</li>
-
-    <span class="news-date">Jul 2021</span>
-    <span class="news-body"> Win the champion at Baidu's 25th Hackathon</li>
-.</span>
   </li>
+
+  <li>
+    <span class="news-date">Feb 2023</span>
+    <span class="news-body"> Win the champion at Xiaohongshu's 3rd Hackathon</span>
+  </li>
+
+  <li>
+    <span class="news-date">Jul 2021</span>
+    <span class="news-body"> Win the champion at Baidu's 25th Hackathon</span>
+  </li>
+.</span>
 
 </ul>
 

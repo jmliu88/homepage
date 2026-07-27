@@ -5,7 +5,7 @@
   authors: Fangtai Wu, Hailong Guo, Shijie Huang, Jiayi Song, Yubo Huang, Mushui Liu,
     Zhao Wang, Yunlong Yu, Jiaming Liu, Ruihua Huang
   venue: arXiv preprint
-  venue_short: arXiv
+  venue_short: ECCV
   year: 2026
   preprint: true
   link: https://arxiv.org/abs/2605.25378
@@ -31,7 +31,7 @@
     and Test Time'
   authors: Haozhe Wang, Cong Wei, Weiming Ren, Jiaming Liu, Fangzhen Lin, Wenhu Chen
   venue: arXiv preprint
-  venue_short: arXiv
+  venue_short: COLM
   year: 2026
   preprint: true
   link: https://arxiv.org/abs/2604.11626
@@ -113,15 +113,6 @@
   doi: 10.1145/3721238.3730702
   code: https://github.com/Xiaojiu-z/Stable-Makeup
   selected: true
-- title: 'Anti-Reference: Universal and Immediate Defense Against Reference-Based
-    Generation'
-  authors: Yiren Song, Shengtao Lou, Xiaokang Liu, Hai Ci, Pei Yang, Jiaming Liu,
-    Mike Zheng Shou
-  venue: arXiv preprint
-  venue_short: arXiv
-  year: 2024
-  preprint: true
-  link: https://arxiv.org/abs/2412.05980
 - title: 'ProcessPainter: Learning to draw from sequence data'
   authors: Yiren Song, Shijie Huang, Chen Yao, Hai Ci, Xiaojun Ye, Jiaming Liu, Yuxuan
     Zhang, Mike Zheng Shou
@@ -248,15 +239,3 @@
   year: 2019
   link: https://doi.org/10.1007/978-3-030-20893-6_6
   doi: 10.1007/978-3-030-20893-6_6
-- title: Cough Event Classification by Pretrained Deep Neural Network
-  authors: Jiaming Liu, Mingyu You, Zheng Wang, Guo-Zheng Li, Xianghuai Xu, Zhongmin
-    Qiu
-  venue: BMC Medical Informatics and Decision Making
-  venue_short: BMC MIDM
-  year: 2015
-- title: Cough Detection Using Deep Neural Networks
-  authors: Jiaming Liu, Mingyu You, Zheng Wang, Guo-Zheng Li, Xianghuai Xu, Zhongmin
-    Qiu
-  venue: IEEE International Conference on Bioinformatics and Biomedicine (BIBM)
-  venue_short: IEEE BIBM
-  year: 2014
