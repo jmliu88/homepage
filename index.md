@@ -72,7 +72,6 @@ been widely adopted by the open-source community, including
     <span class="news-date">Jul 2021</span>
     <span class="news-body"> Win the champion at Baidu's 25th Hackathon</span>
   </li>
-.</span>
 
 </ul>
 
