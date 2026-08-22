@@ -5,6 +5,12 @@ layout: default
 <h2 class="section-title">About Me</h2>
 
 <p class="lead">
+I am currently building a team focused on <strong>interactive video</strong> and
+<strong>world models</strong>. If you share an interest in this direction, please feel free
+to reach out directly.
+</p>
+
+<p class="lead">
 I led content generation team for the <strong>Qwen App</strong> at <strong>Alibaba Group</strong>,
 building systems that connect <strong>AI agents</strong>, <strong>image generation</strong>,
 and <strong>interactive video generation</strong> into a single intelligent creation experience.

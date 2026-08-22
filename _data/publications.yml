@@ -1,5 +1,14 @@
 # Auto-generated from publications.bib.
 # Edit publications.bib, then run: uv run --with bibtexparser --with pyyaml scripts/bib_to_yml.py
+- title: 'AVA-Encoder: Towards Agent-Native Video Representation Learning'
+  authors: Chuyue Li, Jinpeng Yu, Haozhe Wang, Tian Xueyun, Zhijing Zhang, Bingnan
+    Li, Shuqi Gu, Kan Ren, Jiaming Liu, Ruihua Huang
+  venue: arXiv preprint
+  venue_short: arXiv
+  year: 2026
+  preprint: true
+  link: https://arxiv.org/abs/2608.12313
+  selected: true
 - title: 'CollectionLoRA: Collecting 50 Effects in 1 LoRA via Multi-Teacher On-Policy
     Distillation'
   authors: Fangtai Wu, Hailong Guo, Shijie Huang, Jiayi Song, Yubo Huang, Mushui Liu,
@@ -9,6 +18,15 @@
   year: 2026
   preprint: true
   link: https://arxiv.org/abs/2605.25378
+- title: 'EDITBRIDGE: Towards Faithful and Efficient Ultra-High-Resolution Image Editing'
+  authors: Jiayi Song, Shijie Huang, Fangtai Wu, Yubo Huang, Zhenxiong Tan, Songhua
+    Liu, Jiaming Liu, Ruihua Huang
+  venue: arXiv preprint
+  venue_short: arXiv
+  year: 2026
+  preprint: true
+  link: https://arxiv.org/abs/2608.18063
+  selected: true
 - title: 'EasyText: Controllable Diffusion Transformer for Multilingual Text Rendering'
   authors: Runnan Lu, Yuxuan Zhang, Jiaming Liu, Haofan Wang, Yiren Song
   venue: Proceedings of the AAAI Conference on Artificial Intelligence
@@ -27,6 +45,15 @@
   code: https://github.com/Alibaba-Quark/LiveAvatar
   project: https://liveavatar.github.io/
   selected: true
+- title: 'LiveAnimate: Stable Long-Form Streaming Human Animation in Real-Time'
+  authors: Yuxuan Zhang, Haozhong Xiong, Yubo Huang, Jiayi Song, Jinpeng Yu, Haofan
+    Wang, Jiaming Liu, Ruihua Huang, Liwei Wang
+  venue: arXiv preprint
+  venue_short: arXiv
+  year: 2026
+  preprint: true
+  link: https://arxiv.org/abs/2608.11745
+  selected: true
 - title: 'RationalRewards: Reasoning Rewards Scale Visual Generation Both Training
     and Test Time'
   authors: Haozhe Wang, Cong Wei, Weiming Ren, Jiaming Liu, Fangzhen Lin, Wenhu Chen
@@ -35,6 +62,15 @@
   year: 2026
   preprint: true
   link: https://arxiv.org/abs/2604.11626
+- title: Rethinking Classifier-Free Guidance in On-Policy Diffusion Distillation
+  authors: Bingnan Li, Haozhe Wang, Haozhong Xiong, Fangtai Wu, Jinpeng Yu, Yang Shi,
+    Jiaming Liu, Ruihua Huang
+  venue: arXiv preprint
+  venue_short: arXiv
+  year: 2026
+  preprint: true
+  link: https://arxiv.org/abs/2607.24731
+  selected: true
 - title: 'Stable-Hair V2: Real-World Hair Transfer via Multiple-View Diffusion Model'
   authors: Kuiyuan Sun, Yuxuan Zhang, Jichao Zhang, Jiaming Liu, Wei Wang, Nicu Sebe,
     Yao Zhao
@@ -43,6 +79,25 @@
   year: 2026
   link: https://doi.org/10.1109/tvcg.2026.3659861
   doi: 10.1109/tvcg.2026.3659861
+- title: 'UniSwap: Streaming Audio-Visual Identity Swapping for Talking Videos'
+  authors: Yuxuan Zhang, Haozhong Xiong, Jiayi Song, Jinpeng Yu, Yang Shi, Jiaming
+    Liu, Ruihua Huang, Liwei Wang
+  venue: arXiv preprint
+  venue_short: arXiv
+  year: 2026
+  preprint: true
+  link: https://arxiv.org/abs/2608.11752
+  selected: true
+- title: 'What to Edit Next: Visually Aligned Image-Editing Follow-Up Suggestions
+    in Conversational Systems'
+  authors: Zhijing Zhang, Jinpeng Yu, Xin Song, Bingnan Li, Chuyue Li, Changhui Du,
+    Xiaolin Fang, Jiaming Liu, Ruihua Huang
+  venue: arXiv preprint
+  venue_short: arXiv
+  year: 2026
+  preprint: true
+  link: https://arxiv.org/abs/2608.07565
+  selected: true
 - title: 'WordCon: Word-level Typography Control in Visual Text Rendering'
   authors: Wenda Shi, Yiren Song, Zihan Rao, Dengming Zhang, Jiaming Liu, Xingxing
     Zou
