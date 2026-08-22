@@ -4,7 +4,8 @@
 
 title: Jiaming Liu
 description: >-
-  Jiaming Liu leads content generation for the Qwen App at Alibaba Group.
+  Jiaming Liu is building a team on interactive video and world models.
+  Previously he led content generation for the Qwen App at Alibaba Group.
   His research focuses on diffusion models, controllable visual generation,
   interactive video generation, and AI agents.
 
@@ -18,8 +19,8 @@ baseurl: ""
 author:
   name: Jiaming Liu
   name_zh: 刘家铭
-  role: Content Generation Lead, Qwen App
-  affiliation: Alibaba Group
+  role: Previous Content Generation Lead, Qwen App
+  affiliation: Previously Alibaba Group
   location: Shanghai, China
   email: james.liu.n1@gmail.com
   scholar: https://scholar.google.com/citations?user=SmL7oMQAAAAJ&hl=en

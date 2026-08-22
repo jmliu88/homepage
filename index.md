@@ -11,9 +11,10 @@ to reach out directly.
 </p>
 
 <p class="lead">
-I led content generation team for the <strong>Qwen App</strong> at <strong>Alibaba Group</strong>,
-building systems that connect <strong>AI agents</strong>, <strong>image generation</strong>,
-and <strong>interactive video generation</strong> into a single intelligent creation experience.
+Before that, I led the content generation team for the <strong>Qwen App</strong> at
+<strong>Alibaba Group</strong>, building systems that connect <strong>AI agents</strong>,
+<strong>image generation</strong>, and <strong>interactive video generation</strong> into a
+single intelligent creation experience.
 </p>
 
 <p>
@@ -25,7 +26,7 @@ efficient inference, and agentic creation workflows.
 </p>
 
 <p>
-Previously, I was <strong>Head of AI at Tiamat AI</strong>, where I built the full-stack
+Earlier, I was <strong>Head of AI at Tiamat AI</strong>, where I built the full-stack
 generative pipeline for a virtual-companion app; led a <strong>AIGC</strong>
 group at <strong>Xiaohongshu</strong> to power content creation; and led the
 <strong>GAN team</strong> at <strong>Baidu</strong> on intelligent font production and
